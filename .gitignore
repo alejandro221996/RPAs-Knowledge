@@ -1,0 +1,83 @@
+# Entorno virtual
+venv/
+env/
+ENV/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Archivos de datos generados por los ejemplos
+archivos_generados/
+datos_ejemplo/
+reportes/
+logs/
+archivos_temporales/
+*.xlsx
+*.xls
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.txt
+
+# Archivos de configuración del sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Archivos de configuración local
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Chrome driver
+chromedriver
+chromedriver.exe
+
+# Screenshots generados por PyAutoGUI
+screenshot_*.png
+pantalla_*.png
+calculadora_*.png
+
+# Documentos generados por automatización
+documento_automatizado_*.txt
+archivo_ejemplo.txt 
